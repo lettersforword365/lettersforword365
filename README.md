@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![test](https://skillicons.dev/icons?i=c,cs,cpp)]()
+[![test](https://skillicons.dev/icons?i=c,cs,cpp)]
